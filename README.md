@@ -87,3 +87,5 @@ project/
 - The `single_prediction` folder should contain images in a format supported by TensorFlow (e.g., JPEG, PNG).
 - Use a GPU-enabled machine for faster training if possible.
 
+# Medium Post Link
+https://medium.com/@mchowdhury6/convolutional-neural-network-4b5e7e2319f2
