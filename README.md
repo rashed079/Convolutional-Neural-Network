@@ -4,7 +4,7 @@ Convolutional Neural Network
 
 # Project Overview
 
-In this project, we will build a convolutional neural network (CNN) to classify images of cats and dogs. The project includes the following steps:
+In this project, I have built a convolutional neural network (CNN) to classify images of cats and dogs. The project includes the following steps:
 
 1. **Training the Model**:
    - The CNN will be trained on a dataset consisting of:
@@ -17,18 +17,18 @@ In this project, we will build a convolutional neural network (CNN) to classify 
      - 1000 images of cats
 
 3. **Making Predictions**:
-   - The trained model will then be used to classify new images located in the `single_prediction` folder as either a dog or a cat.
+   The trained model will then be used to classify new images located in the `single_prediction` folder as either a dog or a cat.
 
 # Technology Used
 
-We will use **TensorFlow**, integrated with **Keras**, to build and train our CNN model. TensorFlow provides a robust backend for Keras, allowing us to perform efficient computations and leverage features like distributed training. Keras, as TensorFlow's high-level API, simplifies the process of creating, training, and evaluating deep learning models.
+I will use **TensorFlow**, integrated with **Keras**, to build and train my CNN model. TensorFlow provides a robust backend for Keras, allowing us to perform efficient computations and leverage features like distributed training. Keras, as TensorFlow's high-level API, simplifies the process of creating, training, and evaluating deep learning models.
 
 # Why TensorFlow and Keras?
 
 - **TensorFlow**: A powerful and scalable platform for building machine learning models, offering support for both CPU and GPU.
 - **Keras**: Simplifies the design and implementation of neural networks, making it accessible to both beginners and experts.
 
-Keras was originally developed as a standalone API but has been fully integrated into TensorFlow to leverage its advanced features and improve usability. This integration allows us to write concise code while benefiting from TensorFlow's performance and scalability.
+Keras was originally developed as a standalone API but has been fully integrated into TensorFlow to leverage its advanced features and improve usability. This integration allows me to write concise code while benefiting from TensorFlow's performance and scalability.
 
 # Steps to Follow
 
