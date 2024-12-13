@@ -89,3 +89,6 @@ project/
 
 # Medium Post Link
 https://medium.com/@mchowdhury6/convolutional-neural-network-4b5e7e2319f2
+
+# Project File Link
+https://drive.google.com/drive/folders/1K0xjNYIRwp8YCw8Ducq-72qk2fjJm3Og?usp=drive_link
